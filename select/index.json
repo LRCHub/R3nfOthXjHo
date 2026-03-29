@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "base_track": "ラプソディ",
+  "base_artist": "BILLY BOO",
+  "createdAt": "2026-03-29T09:51:23.453479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン (CV.杉田智和)",
+      "has_synced": false,
+      "path": "select/01_ホモ・サピエンス・ラプソディ_キョン_(CV.杉田智和).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン (C.V.杉田智和)",
+      "has_synced": false,
+      "path": "select/02_ホモ・サピエンス・ラプソディ_キョン_(C.V.杉田智和).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ (off vocal)",
+      "artist": "キョン (C.V.杉田智和)",
+      "has_synced": false,
+      "path": "select/03_ホモ・サピエンス・ラプソディ_(off_vocal)_キョン_(C.V.杉田智和).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジーン・ラプソディ",
+      "artist": "Unchain",
+      "has_synced": true,
+      "path": "select/04_ジーン・ラプソディ_Unchain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ボヘミアン・ラプソディ",
+      "artist": "クイーン",
+      "has_synced": true,
+      "path": "select/05_ボヘミアン・ラプソディ_クイーン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "バージニア・ラプソディ",
+      "artist": "Iyo Matsumoto",
+      "has_synced": true,
+      "path": "select/06_バージニア・ラプソディ_Iyo_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラプソディ",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": true,
+      "path": "select/07_ラプソディ_THE_YELLOW_MONKEY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ボヘミアン・ラプソディ",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/08_ボヘミアン・ラプソディ_Queen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ボヘミアン・ラプソディ",
+      "artist": "ムジカ・ピッコリーノ",
+      "has_synced": false,
+      "path": "select/09_ボヘミアン・ラプソディ_ムジカ・ピッコリーノ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン (杉田智和)",
+      "has_synced": false,
+      "path": "select/10_ホモ・サピエンス・ラプソディ_キョン_(杉田智和).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "デジタリアン・ラプソディ",
+      "artist": "聖飢魔Ⅱ",
+      "has_synced": true,
+      "path": "select/11_デジタリアン・ラプソディ_聖飢魔II.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ホロスコープ・ラプソディ",
+      "artist": "エンジェル隊",
+      "has_synced": false,
+      "path": "select/12_ホロスコープ・ラプソディ_エンジェル隊.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ホロスコープ・ラプソディ",
+      "artist": "エンジェル隊  他",
+      "has_synced": false,
+      "path": "select/13_ホロスコープ・ラプソディ_エンジェル隊_他.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "チャイナタウン・ラプソディ",
+      "artist": "河合奈保子",
+      "has_synced": false,
+      "path": "select/14_チャイナタウン・ラプソディ_河合奈保子.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラプソディ",
+      "artist": "CHAGE and ASKA",
+      "has_synced": true,
+      "path": "select/15_ラプソディ_CHAGE_and_ASKA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラプソディ",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": true,
+      "path": "select/16_ラプソディ_THE_YELLOW_MONKEY.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ (off vocal)",
+      "artist": "Kyon (C.V.Sugita, Tomokazu)",
+      "has_synced": false,
+      "path": "select/17_ホモ・サピエンス・ラプソディ_(off_vocal)_Kyon_(C.V.Sugita,_Tomokazu).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン(杉田智和)",
+      "has_synced": false,
+      "path": "select/18_ホモ・サピエンス・ラプソディ_キョン(杉田智和).txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ (off vocal)",
+      "artist": "キョン(杉田智和)",
+      "has_synced": false,
+      "path": "select/19_ホモ・サピエンス・ラプソディ_(off_vocal)_キョン(杉田智和).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラプソディ",
+      "artist": "BILLY BOO",
+      "has_synced": false,
+      "path": "select/pl_01_ラプソディ_BILLY_BOO.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ラプソディ",
+      "artist": "BILLY BOO",
+      "has_synced": false,
+      "path": "select/localdb_01_ラプソディ_BILLY_BOO.txt",
+      "repo_name": "6WqjM6Jk0d8"
+    }
+  ]
+}
